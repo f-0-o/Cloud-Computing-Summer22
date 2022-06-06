@@ -1,2 +1,0 @@
-S3 url: http://mytestforumv1.s3-website-us-east-1.amazonaws.com
-Github: 
